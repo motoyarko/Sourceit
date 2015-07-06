@@ -17,7 +17,7 @@ public class GmailFoldersTest {
     
     WebDriver driver;
    public String username = "motoyarko@gmail.com";
-    private String password = "Khai1988";
+    private String password = "*********";
 
     @Before
     public void setUp() throws Exception {
